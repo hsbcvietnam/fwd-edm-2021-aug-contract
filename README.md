@@ -1,7 +1,7 @@
 #fwd-edm-template
 
 Link view
-https://fwd-edm-template.herokuapp.com/source/index.html
+https://hsbcvietnam.github.io/fwdd-2021-aug-contract/source/index.html
 
 Link download
-https://fwd-edm-template.herokuapp.com/download.php
+https://fwd-contract-edm.herokuapp.com/download.php
